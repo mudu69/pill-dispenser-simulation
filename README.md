@@ -58,10 +58,6 @@ This simulation addresses a different problem: how to reliably detect a pill-dro
 
 The Kalman filter provided the largest SNR gain, confirming that adaptive estimation best isolates the pill-drop event from sensor and environmental noise. Combining smoothing, frequency-specific rejection, and adaptive filtering produces a reliable signal suitable for triggering dispensing confirmation and missed-dose logging.
 
-## Results & Plots
-
-```
-
 ## Future Work
 
 - Port the filtering pipeline to real-time microcontroller firmware
