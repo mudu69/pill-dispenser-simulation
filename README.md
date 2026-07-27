@@ -7,7 +7,7 @@ A Python-based simulation of a non-invasive electronic pill dispenser designed t
 The E-Pill Dispenser automates medication delivery on a fixed daily schedule and confirms each dose using a load-cell sensor in the pill collection compartment. This repo contains two simulations:
 
 1. **Device Behavior Simulation** (`sim3-fin.py`) — an animated timeline of dispensing events, missed doses, alert activations, and battery decay.
-2. **Signal Processing Simulation** (see `MSE_Report-1.pdf`) — a study of how noise corrupts the load-cell sensor signal and how filtering techniques recover it.
+2. **Signal Processing Simulation** — a study of how noise corrupts the load-cell sensor signal and how filtering techniques recover it.
 
 ## Target Use Case
 
